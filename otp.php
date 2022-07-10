@@ -245,7 +245,7 @@ if ($_POST){
           </div>
 
         </div>
-        <p><center><small>Bilgi Güvenliği infosec-IAM@sahibinden.com </small></center></p>
+        <p><center><small>Bilgi Güvenliği infosec-IAM@acme.com </small></center></p>
       </div>
 
     </div>
